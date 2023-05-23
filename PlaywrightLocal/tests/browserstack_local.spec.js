@@ -1,7 +1,7 @@
 // @ts-check
 const { test, expect } = require('@playwright/test');
 
-test('test browserstack login', async ({ page },testInfo) => {
+test('test browserstack login local', async ({ page },testInfo) => {
 
 try{
 
