@@ -15,7 +15,7 @@ const caps = {
   os: 'osx',
   os_version: 'catalina',
   name: 'playwright test Browserstack login',
-  build: 'playwright-build-PGA 5',
+  build: 'playwright-build-PGA 6',
   'browserstack.username': process.env.BROWSERSTACK_USERNAME || 'USERNAME',
   'browserstack.accessKey': process.env.BROWSERSTACK_ACCESS_KEY || 'ACCESSKEY',
   'browserstack.local': process.env.BROWSERSTACK_LOCAL || true,
